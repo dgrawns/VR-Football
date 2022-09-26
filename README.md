@@ -1,2 +1,6 @@
 # VR-Football
-Demo for VR Football game developed by me.
+VR Football Game in Development by me.
+
+THIS IS A WIP. NOTHING IS FINALIZED.
+
+Multiplayer VR Football game demo.
